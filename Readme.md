@@ -11,7 +11,7 @@
 大致如下：
 
 
-![批量转换示意图](https://github.com/zhangjingxun12/Lvgl_image_convert_tool/blob/1.0.2/Mutiple_image_convert.png)
+![批量转换示意图](https://whycan.cn/files/members/1913/none.png)
 
 
 
